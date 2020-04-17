@@ -78,22 +78,24 @@
         <div class="container">
             <div class="row block-9">
                 <div class="col-md-6 pr-md-5">
-                    <form action="#">
+                    <form id="myForm" name="input" action="https://formspree.io/cristaoseducadores@gmail.com" method="POST">
                         <div class="form-group">
-                            <input type="text" class="form-control px-3 py-3" placeholder="Seu nome">
+                            <input type="text" name="Email" class="form-control px-3 py-3" name="email" placeholder="Endereço de email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter Email Address '" required="" type="email">
                         </div>
                         <div class="form-group">
-                            <input type="text" class="form-control px-3 py-3" placeholder="Seu email">
+                            <input type="text" name="Nome" class="form-control px-3 py-3" placeholder="Seu nome">
                         </div>
                         <div class="form-group">
-                            <input type="text" class="form-control px-3 py-3" placeholder="Assunto">
+                            <input type="text" name="Assunto" class="form-control px-3 py-3" placeholder="Assunto">
                         </div>
                         <div class="form-group">
-                            <textarea name="" id="" cols="30" rows="7" class="form-control px-3 py-3" placeholder="Mensagem"></textarea>
+                            <textarea name="Mensagem" id="" cols="30" rows="7" class="form-control px-3 py-3" placeholder="Mensagem"></textarea>
                         </div>
                         <div class="form-group">
                             <input type="submit" value="Enviar" class="btn btn-primary py-3 px-5">
                         </div>
+                        <input type="hidden" name="_next" value="https://cristaoseducadores.github.io" />
+                        <input type="hidden" name="_subject" value="Contato Cristãos Educadores" />
                     </form>
 
                 </div>
