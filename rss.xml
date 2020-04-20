@@ -15,9 +15,9 @@
 
         <itunes:author>Cristãos Educadores</itunes:author>
         <itunes:owner>
-    <itunes:name>Cristãos Educadores</itunes:name>
-    <itunes:email>cristaoseducadores@gmail.com</itunes:email>
-</itunes:owner>
+            <itunes:name>Cristãos Educadores</itunes:name>
+            <itunes:email>cristaoseducadores@gmail.com</itunes:email>
+        </itunes:owner>
         <itunes:category text="Gospel">
             <itunes:category text="Adoração" />
             <itunes:category text="Deus" />
@@ -25,11 +25,38 @@
             <itunes:category text="Jesus" />
         </itunes:category>
         <itunes:image href="https://cristaoseducadores.github.io/poadcasts/a-biblia-sonora/capa.png" />
+
+        <item>
+            <title>Caim e Abel</title>
+            <link>https://cristaoseducadores.github.io/poadcasts/a-biblia-sonora/codes/3.html</link>
+            <pubDate>Mon, 22 Apr 2020 02:00:00 -0300</pubDate>
+            <description>3º episódio da Bíblia sonora - Caim e Abel.</description>
+            <enclosure url="https://cristaoseducadores.github.io/poadcasts/a-biblia-sonora/mp3/A Bíblia Sonora 03 Caim e Abel.mp3" type="audio/mpeg" />
+            <itunes:subtitle>Caim e Abel</itunes:subtitle>
+            <itunes:summary>3 - Caim e Abel</itunes:summary>
+            <itunes:author>Cristãos Educadores</itunes:author>
+            <itunes:image href="https://cristaoseducadores.github.io/poadcasts/a-biblia-sonora/codes/3.png" />
+            <itunes:explicit>clean</itunes:explicit>
+        </item>
+
+        <item>
+            <title>O Éden Perdido</title>
+            <link>https://cristaoseducadores.github.io/poadcasts/a-biblia-sonora/codes/2.html</link>
+            <pubDate>Mon, 21 Apr 2020 02:00:00 -0300</pubDate>
+            <description>2º episódio da Bíblia sonora - O Éden Perdido.</description>
+            <enclosure url="https://cristaoseducadores.github.io/poadcasts/a-biblia-sonora/mp3/A Bíblia Sonora 02 O Éden Perdido.mp3" type="audio/mpeg" />
+            <itunes:subtitle>O Éden Perdido</itunes:subtitle>
+            <itunes:summary>2 - O Éden Perdido</itunes:summary>
+            <itunes:author>Cristãos Educadores</itunes:author>
+            <itunes:image href="https://cristaoseducadores.github.io/poadcasts/a-biblia-sonora/codes/2.png" />
+            <itunes:explicit>clean</itunes:explicit>
+        </item>
+
         <item>
             <title>A Criação</title>
             <link>https://cristaoseducadores.github.io/poadcasts/a-biblia-sonora/codes/1.html</link>
             <pubDate>Mon, 20 Apr 2020 02:00:00 -0300</pubDate>
-            <description>1º episódio da Bíblia sonora no ar.</description>
+            <description>1º episódio da Bíblia sonora - A Criação.</description>
             <enclosure url="https://cristaoseducadores.github.io/poadcasts/a-biblia-sonora/mp3/A Bíblia Sonora 01 A Criação.mp3" type="audio/mpeg" />
             <itunes:subtitle>A Criação</itunes:subtitle>
             <itunes:summary>1 - A Criação</itunes:summary>
@@ -37,5 +64,7 @@
             <itunes:image href="https://cristaoseducadores.github.io/poadcasts/a-biblia-sonora/codes/1.png" />
             <itunes:explicit>clean</itunes:explicit>
         </item>
+
+
     </channel>
 </rss>
