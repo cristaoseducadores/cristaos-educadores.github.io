@@ -6,10 +6,18 @@
         <description>Poadcast cristãos que buscará trazer conteúdos relevantes como a bíblia sonora.
         </description>
         <language>pt-br</language>
+
+        <image>
+            <url>https://cristaoseducadores.github.io/poadcasts/a-biblia-sonora/capa.png</url>
+            <title>Bíblia Sonora</title>
+            <link>https://cristaoseducadores.github.io</link>
+        </image>
+
         <itunes:author>Cristãos Educadores</itunes:author>
         <itunes:owner>
-            <itunes:email>cristaoseducadores@gmail.com</itunes:email>
-        </itunes:owner>
+    <itunes:name>Cristãos Educadores</itunes:name>
+    <itunes:email>cristaoseducadores@gmail.com</itunes:email>
+</itunes:owner>
         <itunes:category text="Gospel">
             <itunes:category text="Adoração" />
             <itunes:category text="Deus" />
@@ -18,14 +26,16 @@
         </itunes:category>
         <itunes:image href="https://cristaoseducadores.github.io/poadcasts/a-biblia-sonora/capa.png" />
         <item>
-            <guid>1234</guid>
-            <title>Episode 09: To Be Suspected</title>
-            <description>New information is coming in about what maybe did not happen on
-January 13, 1999. And while the memory of that day is foggy at best, he does remember what
-happened next: being questioned, being arrested and, a little more than a year later, being
-sentenced to life in prison.</description>
-            <pubDate>Mon, 20 Apr 2020 02:0:00 -0300</pubDate>
-            <enclosure url="https://cristaoseducadores.github.io/poadcasts/a-biblia-sonora/codes/1.html" type="audio/mpeg" />
+            <title>A Criação</title>
+            <link>https://cristaoseducadores.github.io/poadcasts/a-biblia-sonora/codes/1.html</link>
+            <pubDate>Mon, 20 Apr 2020 02:00:00 -0300</pubDate>
+            <description>1º episódio da Bíblia sonora no ar.</description>
+            <enclosure url="https://cristaoseducadores.github.io/poadcasts/a-biblia-sonora/mp3/A Bíblia Sonora 01 A Criação.mp3" type="audio/mpeg" />
+            <itunes:subtitle>A Criação</itunes:subtitle>
+            <itunes:summary>1 - A Criação</itunes:summary>
+            <itunes:author>Cristãos Educadores</itunes:author>
+            <itunes:image href="https://cristaoseducadores.github.io/poadcasts/a-biblia-sonora/codes/1.png" />
+            <itunes:explicit>clean</itunes:explicit>
         </item>
     </channel>
 </rss>
