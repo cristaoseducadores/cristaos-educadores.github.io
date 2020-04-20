@@ -1,22 +1,28 @@
-<?xml version="1.0"?>
-<rss version="2.0">
-<channel>
-
-<title>Cristãos Educadores</title>
-<link>https://cristaoseducadores.github.io</link>
-<description>Site educacional e edificador com conteúdo cristão</description>
-
-<item>
-<title>A bíblia Sonora - 01</title>
-<link>https://cristaoseducadores.github.io/poadcasts/a-biblia-sonora/codes/1.html</link>
-<description>Episódio: A criação</description>
-</item>
-
-<!-- <item>
-<title>Noticia mais antiga, mais embaixo</title>
-<link>http://seusite.com.etc/noticias/maisvelha</link>
-<description>Essa eh a mais velha. Bla, bla, bla.</description>
-</item> -->
-
-</channel>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="https://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title>Cristãos Educadores</title>
+        <link>https://cristaoseducadores.github.io</link>
+        <description>Poadcast cristãos que buscará trazer conteúdos relevantes como a bíblia sonora.
+        </description>
+        <language>pt-br</language>
+        <itunes:author>Cristãos Educadores</itunes:author>
+        <itunes:category text="Gospel">
+            <itunes:category text="Adoração" />
+            <itunes:category text="Deus" />
+            <itunes:category text="Bíblia" />
+            <itunes:category text="Jesus" />
+        </itunes:category>
+        <itunes:image href="https://cristaoseducadores.github.io/poadcasts/a-biblia-sonora/capa.png" />
+        <item>
+            <guid>1234</guid>
+            <title>Episode 09: To Be Suspected</title>
+            <description>New information is coming in about what maybe did not happen on
+January 13, 1999. And while the memory of that day is foggy at best, he does remember what
+happened next: being questioned, being arrested and, a little more than a year later, being
+sentenced to life in prison.</description>
+            <pubDate>Mon, 20 Apr 2020 02:0:00 -0300</pubDate>
+            <enclosure url="https://cristaoseducadores.github.io/poadcasts/a-biblia-sonora/codes/1.html" type="audio/mpeg" />
+        </item>
+    </channel>
 </rss>
