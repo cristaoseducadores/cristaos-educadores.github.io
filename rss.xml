@@ -7,6 +7,9 @@
         </description>
         <language>pt-br</language>
         <itunes:author>Cristãos Educadores</itunes:author>
+        <itunes:owner>
+            <itunes:email>cristaoseducadores@gmail.com</itunes:email>
+        </itunes:owner>
         <itunes:category text="Gospel">
             <itunes:category text="Adoração" />
             <itunes:category text="Deus" />
