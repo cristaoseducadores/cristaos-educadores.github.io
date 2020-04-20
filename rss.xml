@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+<channel>
+
+<title>Cristãos Educadores</title>
+<link>https://cristaoseducadores.github.io</link>
+<description>Site educacional e edificador com conteúdo cristão</description>
+
+<item>
+<title>A bíblia Sonora - 01</title>
+<link>https://cristaoseducadores.github.io/poadcasts/a-biblia-sonora/codes/1.html</link>
+<description>Episódio: A criação</description>
+</item>
+
+<!-- <item>
+<title>Noticia mais antiga, mais embaixo</title>
+<link>http://seusite.com.etc/noticias/maisvelha</link>
+<description>Essa eh a mais velha. Bla, bla, bla.</description>
+</item> -->
+
+</channel>
+</rss>
