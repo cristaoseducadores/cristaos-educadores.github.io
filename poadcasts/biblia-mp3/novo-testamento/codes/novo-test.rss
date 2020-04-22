@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title>Novo Testamento da Bíblia em áudio</title>
+        <link>https://cristaoseducadores.github.io</link>
+        <description>Poadcast cristão que trará a bíblia sonora. Serão abrangidos os livros do novo testamento da Bíblia. <![CDATA[<br><b>Website:<b> https://cristaoseducadores.github.io <br> <b>Canal YouTube:<b> https://www.youtube.com/channel/UCvr7mlCKp0j65QY7Wci7ABw]]>
+        </description>
+        <language>pt-br</language>
+
+        <image>
+            <url>https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/img/novo_testamento.jpg</url>
+            <title>Novo Testamento - Bíblia Sagrada</title>
+            <link>https://cristaoseducadores.github.io</link>
+        </image>
+
+        <itunes:author>Cristãos Educadores</itunes:author>
+        <itunes:owner>
+            <itunes:name>Cristãos Educadores</itunes:name>
+            <itunes:email>cristaoseducadores@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:category text="Gospel">
+            <itunes:category text="Adoração" />
+            <itunes:category text="Deus" />
+            <itunes:category text="Bíblia" />
+            <itunes:category text="Jesus" />
+            <itunes:category text="Novo Testamento" />
+        </itunes:category>
+        <itunes:image href="https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/img/novo_testamento.jpg" />
+
+        <item>
+            <title>Mateus - Capítulo 1</title>
+            <link>https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/codes/novo-test.rss</link>
+            <pubDate>Mon, 22 Apr 2020 15:30:00 -0300</pubDate>
+            <description>Primeiro capítulo do novo testamento do livro de Mateus</description>
+            <enclosure url="https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/mp3/001MATEUS/mat_01.mp3" type="audio/mpeg" />
+            <itunes:subtitle>Mateus - Capítulo 1</itunes:subtitle>
+            <itunes:summary>Mateus - Capítulo 1</itunes:summary>
+            <itunes:author>Cristãos Educadores</itunes:author>
+            <itunes:image href="https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/img/Mateus.jpg" />
+            <itunes:explicit>clean</itunes:explicit>
+        </item>
+
+
+    </channel>
+</rss>
