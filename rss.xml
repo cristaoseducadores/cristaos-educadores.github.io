@@ -27,12 +27,25 @@
         <itunes:image href="https://cristaoseducadores.github.io/poadcasts/a-biblia-sonora/capa.png" />
 
         <item>
+            <title>O Dilúvio</title>
+            <link>https://cristaoseducadores.github.io/poadcasts/a-biblia-sonora/codes/4.html</link>
+            <pubDate>Mon, 22 Apr 2020 14:44:25 -0300</pubDate>
+            <description>4º episódio da Bíblia sonora - O Dilúvio.</description>
+            <enclosure url="https://cristaoseducadores.github.io/poadcasts/a-biblia-sonora/mp3/A Bíblia Sonora 04 O Dilúvio.mp3" type="audio/mpeg" />
+            <itunes:subtitle>O Dilúvio (1972)</itunes:subtitle>
+            <itunes:summary>4 - O Dilúvio</itunes:summary>
+            <itunes:author>Cristãos Educadores</itunes:author>
+            <itunes:image href="https://cristaoseducadores.github.io/poadcasts/a-biblia-sonora/codes/3.png" />
+            <itunes:explicit>clean</itunes:explicit>
+        </item>
+
+        <item>
             <title>Caim e Abel</title>
             <link>https://cristaoseducadores.github.io/poadcasts/a-biblia-sonora/codes/3.html</link>
             <pubDate>Mon, 22 Apr 2020 02:00:00 -0300</pubDate>
             <description>3º episódio da Bíblia sonora - Caim e Abel.</description>
             <enclosure url="https://cristaoseducadores.github.io/poadcasts/a-biblia-sonora/mp3/A Bíblia Sonora 03 Caim e Abel.mp3" type="audio/mpeg" />
-            <itunes:subtitle>Caim e Abel</itunes:subtitle>
+            <itunes:subtitle>Caim e Abel (1972)</itunes:subtitle>
             <itunes:summary>3 - Caim e Abel</itunes:summary>
             <itunes:author>Cristãos Educadores</itunes:author>
             <itunes:image href="https://cristaoseducadores.github.io/poadcasts/a-biblia-sonora/codes/3.png" />
@@ -45,7 +58,7 @@
             <pubDate>Mon, 21 Apr 2020 02:00:00 -0300</pubDate>
             <description>2º episódio da Bíblia sonora - O Éden Perdido.</description>
             <enclosure url="https://cristaoseducadores.github.io/poadcasts/a-biblia-sonora/mp3/A Bíblia Sonora 02 O Éden Perdido.mp3" type="audio/mpeg" />
-            <itunes:subtitle>O Éden Perdido</itunes:subtitle>
+            <itunes:subtitle>O Éden Perdido (1972)</itunes:subtitle>
             <itunes:summary>2 - O Éden Perdido</itunes:summary>
             <itunes:author>Cristãos Educadores</itunes:author>
             <itunes:image href="https://cristaoseducadores.github.io/poadcasts/a-biblia-sonora/codes/2.png" />
@@ -58,7 +71,7 @@
             <pubDate>Mon, 20 Apr 2020 02:00:00 -0300</pubDate>
             <description>1º episódio da Bíblia sonora - A Criação.</description>
             <enclosure url="https://cristaoseducadores.github.io/poadcasts/a-biblia-sonora/mp3/A Bíblia Sonora 01 A Criação.mp3" type="audio/mpeg" />
-            <itunes:subtitle>A Criação</itunes:subtitle>
+            <itunes:subtitle>A Criação (1972)</itunes:subtitle>
             <itunes:summary>1 - A Criação</itunes:summary>
             <itunes:author>Cristãos Educadores</itunes:author>
             <itunes:image href="https://cristaoseducadores.github.io/poadcasts/a-biblia-sonora/codes/1.png" />
