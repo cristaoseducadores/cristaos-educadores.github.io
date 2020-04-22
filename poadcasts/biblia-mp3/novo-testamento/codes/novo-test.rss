@@ -3,7 +3,7 @@
     <channel>
         <title>Novo Testamento da Bíblia em áudio</title>
         <link>https://cristaoseducadores.github.io</link>
-        <description>Poadcast cristão que trará a bíblia sonora. Serão abrangidos os livros do novo testamento da Bíblia. <![CDATA[<br><b>Website:<b> https://cristaoseducadores.github.io <br> <b>Canal YouTube:<b> https://www.youtube.com/channel/UCvr7mlCKp0j65QY7Wci7ABw]]>
+        <description>Poadcast cristão que trará a bíblia sonora. Serão abrangidos os livros da Bíblia. <![CDATA[<br><b>Website:<b> https://cristaoseducadores.github.io <br> <b>Canal YouTube:<b> https://www.youtube.com/channel/UCvr7mlCKp0j65QY7Wci7ABw]]>
         </description>
         <language>pt-br</language>
 
@@ -27,11 +27,365 @@
         </itunes:category>
         <itunes:image href="https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/img/novo_testamento.jpg" />
 
+
+        <!-- Livro de Mateus -->
+
+        <item>
+            <title>Mateus - Capítulo 28</title>
+            <link>https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/codes/novo-test.rss</link>
+            <pubDate>Mon, 22 Apr 2020 16:42:00 -0300</pubDate>
+            <description>Vigésimo oitavo capítulo do livro de Mateus</description>
+            <enclosure url="https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/mp3/001MATEUS/mat_28.mp3" type="audio/mpeg" />
+            <itunes:subtitle>Mateus - Capítulo 28</itunes:subtitle>
+            <itunes:summary>Mateus - Capítulo 28</itunes:summary>
+            <itunes:author>Cristãos Educadores</itunes:author>
+            <itunes:image href="https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/img/Mateus.jpg" />
+            <itunes:explicit>clean</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Mateus - Capítulo 27</title>
+            <link>https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/codes/novo-test.rss</link>
+            <pubDate>Mon, 22 Apr 2020 16:42:00 -0300</pubDate>
+            <description>Vigésimo sétimo capítulo do livro de Mateus</description>
+            <enclosure url="https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/mp3/001MATEUS/mat_27.mp3" type="audio/mpeg" />
+            <itunes:subtitle>Mateus - Capítulo 27</itunes:subtitle>
+            <itunes:summary>Mateus - Capítulo 27</itunes:summary>
+            <itunes:author>Cristãos Educadores</itunes:author>
+            <itunes:image href="https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/img/Mateus.jpg" />
+            <itunes:explicit>clean</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Mateus - Capítulo 26</title>
+            <link>https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/codes/novo-test.rss</link>
+            <pubDate>Mon, 22 Apr 2020 16:42:00 -0300</pubDate>
+            <description>Vigésimo sexto capítulo do livro de Mateus</description>
+            <enclosure url="https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/mp3/001MATEUS/mat_26.mp3" type="audio/mpeg" />
+            <itunes:subtitle>Mateus - Capítulo 26</itunes:subtitle>
+            <itunes:summary>Mateus - Capítulo 26</itunes:summary>
+            <itunes:author>Cristãos Educadores</itunes:author>
+            <itunes:image href="https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/img/Mateus.jpg" />
+            <itunes:explicit>clean</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Mateus - Capítulo 25</title>
+            <link>https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/codes/novo-test.rss</link>
+            <pubDate>Mon, 22 Apr 2020 16:42:00 -0300</pubDate>
+            <description>Vigésimo quinto capítulo do livro de Mateus</description>
+            <enclosure url="https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/mp3/001MATEUS/mat_25.mp3" type="audio/mpeg" />
+            <itunes:subtitle>Mateus - Capítulo 25</itunes:subtitle>
+            <itunes:summary>Mateus - Capítulo 25</itunes:summary>
+            <itunes:author>Cristãos Educadores</itunes:author>
+            <itunes:image href="https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/img/Mateus.jpg" />
+            <itunes:explicit>clean</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Mateus - Capítulo 24</title>
+            <link>https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/codes/novo-test.rss</link>
+            <pubDate>Mon, 22 Apr 2020 16:41:00 -0300</pubDate>
+            <description>Vigésimo quarto capítulo do livro de Mateus</description>
+            <enclosure url="https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/mp3/001MATEUS/mat_24.mp3" type="audio/mpeg" />
+            <itunes:subtitle>Mateus - Capítulo 24</itunes:subtitle>
+            <itunes:summary>Mateus - Capítulo 24</itunes:summary>
+            <itunes:author>Cristãos Educadores</itunes:author>
+            <itunes:image href="https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/img/Mateus.jpg" />
+            <itunes:explicit>clean</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Mateus - Capítulo 23</title>
+            <link>https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/codes/novo-test.rss</link>
+            <pubDate>Mon, 22 Apr 2020 16:41:00 -0300</pubDate>
+            <description>Vigésimo terceiro capítulo do livro de Mateus</description>
+            <enclosure url="https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/mp3/001MATEUS/mat_23.mp3" type="audio/mpeg" />
+            <itunes:subtitle>Mateus - Capítulo 23</itunes:subtitle>
+            <itunes:summary>Mateus - Capítulo 23</itunes:summary>
+            <itunes:author>Cristãos Educadores</itunes:author>
+            <itunes:image href="https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/img/Mateus.jpg" />
+            <itunes:explicit>clean</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Mateus - Capítulo 22</title>
+            <link>https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/codes/novo-test.rss</link>
+            <pubDate>Mon, 22 Apr 2020 16:40:00 -0300</pubDate>
+            <description>Vigésimo segundo capítulo do livro de Mateus</description>
+            <enclosure url="https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/mp3/001MATEUS/mat_22.mp3" type="audio/mpeg" />
+            <itunes:subtitle>Mateus - Capítulo 22</itunes:subtitle>
+            <itunes:summary>Mateus - Capítulo 22</itunes:summary>
+            <itunes:author>Cristãos Educadores</itunes:author>
+            <itunes:image href="https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/img/Mateus.jpg" />
+            <itunes:explicit>clean</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Mateus - Capítulo 21</title>
+            <link>https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/codes/novo-test.rss</link>
+            <pubDate>Mon, 22 Apr 2020 16:40:00 -0300</pubDate>
+            <description>Vigésimo primeiro capítulo do livro de Mateus</description>
+            <enclosure url="https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/mp3/001MATEUS/mat_21.mp3" type="audio/mpeg" />
+            <itunes:subtitle>Mateus - Capítulo 21</itunes:subtitle>
+            <itunes:summary>Mateus - Capítulo 21</itunes:summary>
+            <itunes:author>Cristãos Educadores</itunes:author>
+            <itunes:image href="https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/img/Mateus.jpg" />
+            <itunes:explicit>clean</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Mateus - Capítulo 20</title>
+            <link>https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/codes/novo-test.rss</link>
+            <pubDate>Mon, 22 Apr 2020 16:40:00 -0300</pubDate>
+            <description>Vigésimo capítulo do livro de Mateus</description>
+            <enclosure url="https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/mp3/001MATEUS/mat_20.mp3" type="audio/mpeg" />
+            <itunes:subtitle>Mateus - Capítulo 20</itunes:subtitle>
+            <itunes:summary>Mateus - Capítulo 20</itunes:summary>
+            <itunes:author>Cristãos Educadores</itunes:author>
+            <itunes:image href="https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/img/Mateus.jpg" />
+            <itunes:explicit>clean</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Mateus - Capítulo 19</title>
+            <link>https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/codes/novo-test.rss</link>
+            <pubDate>Mon, 22 Apr 2020 16:39:00 -0300</pubDate>
+            <description>Décimo nono capítulo do livro de Mateus</description>
+            <enclosure url="https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/mp3/001MATEUS/mat_19.mp3" type="audio/mpeg" />
+            <itunes:subtitle>Mateus - Capítulo 19</itunes:subtitle>
+            <itunes:summary>Mateus - Capítulo 19</itunes:summary>
+            <itunes:author>Cristãos Educadores</itunes:author>
+            <itunes:image href="https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/img/Mateus.jpg" />
+            <itunes:explicit>clean</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Mateus - Capítulo 18</title>
+            <link>https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/codes/novo-test.rss</link>
+            <pubDate>Mon, 22 Apr 2020 16:39:00 -0300</pubDate>
+            <description>Décimo oitavo capítulo do livro de Mateus</description>
+            <enclosure url="https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/mp3/001MATEUS/mat_18.mp3" type="audio/mpeg" />
+            <itunes:subtitle>Mateus - Capítulo 18</itunes:subtitle>
+            <itunes:summary>Mateus - Capítulo 18</itunes:summary>
+            <itunes:author>Cristãos Educadores</itunes:author>
+            <itunes:image href="https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/img/Mateus.jpg" />
+            <itunes:explicit>clean</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Mateus - Capítulo 17</title>
+            <link>https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/codes/novo-test.rss</link>
+            <pubDate>Mon, 22 Apr 2020 15:38:00 -0300</pubDate>
+            <description>Décimo sétimo capítulo do livro de Mateus</description>
+            <enclosure url="https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/mp3/001MATEUS/mat_17.mp3" type="audio/mpeg" />
+            <itunes:subtitle>Mateus - Capítulo 17</itunes:subtitle>
+            <itunes:summary>Mateus - Capítulo 17</itunes:summary>
+            <itunes:author>Cristãos Educadores</itunes:author>
+            <itunes:image href="https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/img/Mateus.jpg" />
+            <itunes:explicit>clean</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Mateus - Capítulo 16</title>
+            <link>https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/codes/novo-test.rss</link>
+            <pubDate>Mon, 22 Apr 2020 16:38:00 -0300</pubDate>
+            <description>Décimo sexto capítulo do livro de Mateus</description>
+            <enclosure url="https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/mp3/001MATEUS/mat_16.mp3" type="audio/mpeg" />
+            <itunes:subtitle>Mateus - Capítulo 16</itunes:subtitle>
+            <itunes:summary>Mateus - Capítulo 16</itunes:summary>
+            <itunes:author>Cristãos Educadores</itunes:author>
+            <itunes:image href="https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/img/Mateus.jpg" />
+            <itunes:explicit>clean</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Mateus - Capítulo 15</title>
+            <link>https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/codes/novo-test.rss</link>
+            <pubDate>Mon, 22 Apr 2020 16:37:00 -0300</pubDate>
+            <description>Décimo quinto capítulo do livro de Mateus</description>
+            <enclosure url="https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/mp3/001MATEUS/mat_15.mp3" type="audio/mpeg" />
+            <itunes:subtitle>Mateus - Capítulo 15</itunes:subtitle>
+            <itunes:summary>Mateus - Capítulo 15</itunes:summary>
+            <itunes:author>Cristãos Educadores</itunes:author>
+            <itunes:image href="https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/img/Mateus.jpg" />
+            <itunes:explicit>clean</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Mateus - Capítulo 14</title>
+            <link>https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/codes/novo-test.rss</link>
+            <pubDate>Mon, 22 Apr 2020 16:37:00 -0300</pubDate>
+            <description>Décimo quarto capítulo do livro de Mateus</description>
+            <enclosure url="https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/mp3/001MATEUS/mat_14.mp3" type="audio/mpeg" />
+            <itunes:subtitle>Mateus - Capítulo 14</itunes:subtitle>
+            <itunes:summary>Mateus - Capítulo 14</itunes:summary>
+            <itunes:author>Cristãos Educadores</itunes:author>
+            <itunes:image href="https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/img/Mateus.jpg" />
+            <itunes:explicit>clean</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Mateus - Capítulo 13</title>
+            <link>https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/codes/novo-test.rss</link>
+            <pubDate>Mon, 22 Apr 2020 11:37:00 -0300</pubDate>
+            <description>Décimo terceiro capítulo do livro de Mateus</description>
+            <enclosure url="https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/mp3/001MATEUS/mat_13.mp3" type="audio/mpeg" />
+            <itunes:subtitle>Mateus - Capítulo 13</itunes:subtitle>
+            <itunes:summary>Mateus - Capítulo 13</itunes:summary>
+            <itunes:author>Cristãos Educadores</itunes:author>
+            <itunes:image href="https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/img/Mateus.jpg" />
+            <itunes:explicit>clean</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Mateus - Capítulo 12</title>
+            <link>https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/codes/novo-test.rss</link>
+            <pubDate>Mon, 22 Apr 2020 15:36:00 -0300</pubDate>
+            <description>Décimo segundo capítulo do livro de Mateus</description>
+            <enclosure url="https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/mp3/001MATEUS/mat_12.mp3" type="audio/mpeg" />
+            <itunes:subtitle>Mateus - Capítulo 12</itunes:subtitle>
+            <itunes:summary>Mateus - Capítulo 12</itunes:summary>
+            <itunes:author>Cristãos Educadores</itunes:author>
+            <itunes:image href="https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/img/Mateus.jpg" />
+            <itunes:explicit>clean</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Mateus - Capítulo 11</title>
+            <link>https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/codes/novo-test.rss</link>
+            <pubDate>Mon, 22 Apr 2020 16:35:00 -0300</pubDate>
+            <description>Décimo primeiro capítulo do livro de Mateus</description>
+            <enclosure url="https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/mp3/001MATEUS/mat_11.mp3" type="audio/mpeg" />
+            <itunes:subtitle>Mateus - Capítulo 11</itunes:subtitle>
+            <itunes:summary>Mateus - Capítulo 11</itunes:summary>
+            <itunes:author>Cristãos Educadores</itunes:author>
+            <itunes:image href="https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/img/Mateus.jpg" />
+            <itunes:explicit>clean</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Mateus - Capítulo 10</title>
+            <link>https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/codes/novo-test.rss</link>
+            <pubDate>Mon, 22 Apr 2020 16:31:00 -0300</pubDate>
+            <description>Décimo capítulo do livro de Mateus</description>
+            <enclosure url="https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/mp3/001MATEUS/mat_10.mp3" type="audio/mpeg" />
+            <itunes:subtitle>Mateus - Capítulo 10</itunes:subtitle>
+            <itunes:summary>Mateus - Capítulo 10</itunes:summary>
+            <itunes:author>Cristãos Educadores</itunes:author>
+            <itunes:image href="https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/img/Mateus.jpg" />
+            <itunes:explicit>clean</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Mateus - Capítulo 9</title>
+            <link>https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/codes/novo-test.rss</link>
+            <pubDate>Mon, 22 Apr 2020 15:31:00 -0300</pubDate>
+            <description>Nono capítulo do livro de Mateus</description>
+            <enclosure url="https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/mp3/001MATEUS/mat_09.mp3" type="audio/mpeg" />
+            <itunes:subtitle>Mateus - Capítulo 9</itunes:subtitle>
+            <itunes:summary>Mateus - Capítulo 9</itunes:summary>
+            <itunes:author>Cristãos Educadores</itunes:author>
+            <itunes:image href="https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/img/Mateus.jpg" />
+            <itunes:explicit>clean</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Mateus - Capítulo 8</title>
+            <link>https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/codes/novo-test.rss</link>
+            <pubDate>Mon, 22 Apr 2020 16:30:00 -0300</pubDate>
+            <description>Oitavo capítulo do livro de Mateus</description>
+            <enclosure url="https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/mp3/001MATEUS/mat_08.mp3" type="audio/mpeg" />
+            <itunes:subtitle>Mateus - Capítulo 8</itunes:subtitle>
+            <itunes:summary>Mateus - Capítulo 8</itunes:summary>
+            <itunes:author>Cristãos Educadores</itunes:author>
+            <itunes:image href="https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/img/Mateus.jpg" />
+            <itunes:explicit>clean</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Mateus - Capítulo 7</title>
+            <link>https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/codes/novo-test.rss</link>
+            <pubDate>Mon, 22 Apr 2020 16:28:00 -0300</pubDate>
+            <description>Sétimo capítulo do livro de Mateus</description>
+            <enclosure url="https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/mp3/001MATEUS/mat_07.mp3" type="audio/mpeg" />
+            <itunes:subtitle>Mateus - Capítulo 7</itunes:subtitle>
+            <itunes:summary>Mateus - Capítulo 7</itunes:summary>
+            <itunes:author>Cristãos Educadores</itunes:author>
+            <itunes:image href="https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/img/Mateus.jpg" />
+            <itunes:explicit>clean</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Mateus - Capítulo 6</title>
+            <link>https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/codes/novo-test.rss</link>
+            <pubDate>Mon, 22 Apr 2020 16:26:00 -0300</pubDate>
+            <description>Sexto capítulo do livro de Mateus</description>
+            <enclosure url="https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/mp3/001MATEUS/mat_06.mp3" type="audio/mpeg" />
+            <itunes:subtitle>Mateus - Capítulo 6</itunes:subtitle>
+            <itunes:summary>Mateus - Capítulo 6</itunes:summary>
+            <itunes:author>Cristãos Educadores</itunes:author>
+            <itunes:image href="https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/img/Mateus.jpg" />
+            <itunes:explicit>clean</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Mateus - Capítulo 5</title>
+            <link>https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/codes/novo-test.rss</link>
+            <pubDate>Mon, 22 Apr 2020 16:25:00 -0300</pubDate>
+            <description>Quinto capítulo do livro de Mateus</description>
+            <enclosure url="https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/mp3/001MATEUS/mat_05.mp3" type="audio/mpeg" />
+            <itunes:subtitle>Mateus - Capítulo 5</itunes:subtitle>
+            <itunes:summary>Mateus - Capítulo 5</itunes:summary>
+            <itunes:author>Cristãos Educadores</itunes:author>
+            <itunes:image href="https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/img/Mateus.jpg" />
+            <itunes:explicit>clean</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Mateus - Capítulo 4</title>
+            <link>https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/codes/novo-test.rss</link>
+            <pubDate>Mon, 22 Apr 2020 16:24:00 -0300</pubDate>
+            <description>Quarto capítulo do livro de Mateus</description>
+            <enclosure url="https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/mp3/001MATEUS/mat_04.mp3" type="audio/mpeg" />
+            <itunes:subtitle>Mateus - Capítulo 4</itunes:subtitle>
+            <itunes:summary>Mateus - Capítulo 4</itunes:summary>
+            <itunes:author>Cristãos Educadores</itunes:author>
+            <itunes:image href="https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/img/Mateus.jpg" />
+            <itunes:explicit>clean</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Mateus - Capítulo 3</title>
+            <link>https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/codes/novo-test.rss</link>
+            <pubDate>Mon, 22 Apr 2020 16:21:00 -0300</pubDate>
+            <description>Terceiro capítulo do livro de Mateus</description>
+            <enclosure url="https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/mp3/001MATEUS/mat_03.mp3" type="audio/mpeg" />
+            <itunes:subtitle>Mateus - Capítulo 3</itunes:subtitle>
+            <itunes:summary>Mateus - Capítulo 3</itunes:summary>
+            <itunes:author>Cristãos Educadores</itunes:author>
+            <itunes:image href="https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/img/Mateus.jpg" />
+            <itunes:explicit>clean</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Mateus - Capítulo 2</title>
+            <link>https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/codes/novo-test.rss</link>
+            <pubDate>Mon, 22 Apr 2020 16:20:00 -0300</pubDate>
+            <description>Segundo capítulo do livro de Mateus</description>
+            <enclosure url="https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/mp3/001MATEUS/mat_02.mp3" type="audio/mpeg" />
+            <itunes:subtitle>Mateus - Capítulo 2</itunes:subtitle>
+            <itunes:summary>Mateus - Capítulo 2</itunes:summary>
+            <itunes:author>Cristãos Educadores</itunes:author>
+            <itunes:image href="https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/img/Mateus.jpg" />
+            <itunes:explicit>clean</itunes:explicit>
+        </item>
+
         <item>
             <title>Mateus - Capítulo 1</title>
             <link>https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/codes/novo-test.rss</link>
             <pubDate>Mon, 22 Apr 2020 15:30:00 -0300</pubDate>
-            <description>Primeiro capítulo do novo testamento do livro de Mateus</description>
+            <description>Primeiro capítulo do livro de Mateus</description>
             <enclosure url="https://cristaoseducadores.github.io/poadcasts/biblia-mp3/novo-testamento/mp3/001MATEUS/mat_01.mp3" type="audio/mpeg" />
             <itunes:subtitle>Mateus - Capítulo 1</itunes:subtitle>
             <itunes:summary>Mateus - Capítulo 1</itunes:summary>
