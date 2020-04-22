@@ -3,7 +3,7 @@
     <channel>
         <title>Bíblia Sonora</title>
         <link>https://cristaoseducadores.github.io</link>
-        <description>Poadcast cristão que trará a bíblia sonora. Serão abrangidas histórias em forma de áudio contando a Bíblia.
+        <description>Poadcast cristão que trará a bíblia sonora. Serão abrangidas histórias em forma de áudio contando a Bíblia. <![CDATA[<br><b>Website:<b> https://cristaoseducadores.github.io <br> <b>Canal YouTube:<b> https://www.youtube.com/channel/UCvr7mlCKp0j65QY7Wci7ABw]]>
         </description>
         <language>pt-br</language>
 
@@ -25,6 +25,19 @@
             <itunes:category text="Jesus" />
         </itunes:category>
         <itunes:image href="https://cristaoseducadores.github.io/poadcasts/a-biblia-sonora/capa.png" />
+
+        <item>
+            <title>O Dilúvio</title>
+            <link>https://cristaoseducadores.github.io/poadcasts/a-biblia-sonora/codes/4.html</link>
+            <pubDate>Mon, 22 Apr 2020 14:44:25 -0300</pubDate>
+            <description>4º episódio da Bíblia sonora - O Dilúvio.</description>
+            <enclosure url="https://cristaoseducadores.github.io/poadcasts/a-biblia-sonora/mp3/A Bíblia Sonora 04 O Dilúvio.mp3" type="audio/mpeg" />
+            <itunes:subtitle>O Dilúvio (1972)</itunes:subtitle>
+            <itunes:summary>4 - O Dilúvio</itunes:summary>
+            <itunes:author>Cristãos Educadores</itunes:author>
+            <itunes:image href="https://cristaoseducadores.github.io/poadcasts/a-biblia-sonora/codes/3.png" />
+            <itunes:explicit>clean</itunes:explicit>
+        </item>
 
         <item>
             <title>O Dilúvio</title>
