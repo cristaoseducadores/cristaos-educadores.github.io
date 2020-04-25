@@ -27,9 +27,35 @@
         <itunes:image href="https://cristaoseducadores.github.io/poadcasts/a-biblia-sonora/capa.png" />
 
         <item>
+            <title>Abraão, o pai da Fé</title>
+            <link>https://cristaoseducadores.github.io/poadcasts/a-biblia-sonora/codes/5.html</link>
+            <pubDate>Sat, 25 Apr 2020 01:28:25 -0300</pubDate>
+            <description>6º episódio da Bíblia sonora - Abraão, o pai da Fé.</description>
+            <enclosure url="https://cristaoseducadores.github.io/poadcasts/a-biblia-sonora/mp3/A Bíblia Sonora 06 Abrão o Pai da Fé.mp3" type="audio/mpeg" />
+            <itunes:subtitle>Abraão, o pai da Fé (1974)</itunes:subtitle>
+            <itunes:summary>6 - Abraão, o pai da Fé</itunes:summary>
+            <itunes:author>Cristãos Educadores</itunes:author>
+            <itunes:image href="https://cristaoseducadores.github.io/poadcasts/a-biblia-sonora/codes/6.png" />
+            <itunes:explicit>clean</itunes:explicit>
+        </item>
+
+        <item>
+            <title>A Torre de Babel</title>
+            <link>https://cristaoseducadores.github.io/poadcasts/a-biblia-sonora/codes/5.html</link>
+            <pubDate>Fri, 24 Apr 2020 14:44:25 -0300</pubDate>
+            <description>5º episódio da Bíblia sonora - A Torre de Babel.</description>
+            <enclosure url="https://cristaoseducadores.github.io/poadcasts/a-biblia-sonora/mp3/A Bíblia Sonora 05 A Torre de Babel.mp3" type="audio/mpeg" />
+            <itunes:subtitle>A Torre de Babel (1974)</itunes:subtitle>
+            <itunes:summary>5 - A Torre de Babel</itunes:summary>
+            <itunes:author>Cristãos Educadores</itunes:author>
+            <itunes:image href="https://cristaoseducadores.github.io/poadcasts/a-biblia-sonora/codes/5.png" />
+            <itunes:explicit>clean</itunes:explicit>
+        </item>
+
+        <item>
             <title>O Dilúvio</title>
             <link>https://cristaoseducadores.github.io/poadcasts/a-biblia-sonora/codes/4.html</link>
-            <pubDate>Mon, 22 Apr 2020 14:44:25 -0300</pubDate>
+            <pubDate>Thu, 23 Apr 2020 14:44:25 -0300</pubDate>
             <description>4º episódio da Bíblia sonora - O Dilúvio.</description>
             <enclosure url="https://cristaoseducadores.github.io/poadcasts/a-biblia-sonora/mp3/A Bíblia Sonora 04 O Dilúvio.mp3" type="audio/mpeg" />
             <itunes:subtitle>O Dilúvio (1972)</itunes:subtitle>
@@ -42,7 +68,7 @@
         <item>
             <title>Caim e Abel</title>
             <link>https://cristaoseducadores.github.io/poadcasts/a-biblia-sonora/codes/3.html</link>
-            <pubDate>Mon, 22 Apr 2020 02:00:00 -0300</pubDate>
+            <pubDate>Wed, 22 Apr 2020 02:00:00 -0300</pubDate>
             <description>3º episódio da Bíblia sonora - Caim e Abel.</description>
             <enclosure url="https://cristaoseducadores.github.io/poadcasts/a-biblia-sonora/mp3/A Bíblia Sonora 03 Caim e Abel.mp3" type="audio/mpeg" />
             <itunes:subtitle>Caim e Abel (1972)</itunes:subtitle>
@@ -55,7 +81,7 @@
         <item>
             <title>O Éden Perdido</title>
             <link>https://cristaoseducadores.github.io/poadcasts/a-biblia-sonora/codes/2.html</link>
-            <pubDate>Mon, 21 Apr 2020 02:00:00 -0300</pubDate>
+            <pubDate>Tue, 21 Apr 2020 02:00:00 -0300</pubDate>
             <description>2º episódio da Bíblia sonora - O Éden Perdido.</description>
             <enclosure url="https://cristaoseducadores.github.io/poadcasts/a-biblia-sonora/mp3/A Bíblia Sonora 02 O Éden Perdido.mp3" type="audio/mpeg" />
             <itunes:subtitle>O Éden Perdido (1972)</itunes:subtitle>
